@@ -1,0 +1,10 @@
+@import "../Variables.scss";
+
+.unit-detail-header {
+  font-size: $headerSize;
+  font-family: $medievalFont;
+  color: $yellowColor;
+  margin-bottom: 3rem;
+  margin-top: $distanceFromHeader;
+
+}

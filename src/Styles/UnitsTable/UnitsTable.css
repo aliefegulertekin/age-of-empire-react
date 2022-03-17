@@ -1,0 +1,18 @@
+.filtered-data-table-container {
+  width: 70% !important;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.filtered-data-table-container .header-table-cell {
+  font-weight: bold;
+}
+
+.filtered-data-table-container .table-data-row {
+  cursor: pointer;
+}
+
+.filtered-data-table-container .table-data-row:hover {
+  background-color: #f0f0f0;
+}
+/*# sourceMappingURL=UnitsTable.css.map */

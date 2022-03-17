@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,mBAAmB,CAAC;EAClB,SAAS,ECDM,MAAM;EDErB,WAAW,ECHK,eAAe,EAAE,OAAO;EDIxC,KAAK,ECLW,OAAO;EDMvB,aAAa,EAAE,IAAI;EACnB,UAAU,ECJa,IAAI;CDM5B",
+    "sources": [
+        "UnitDetail.scss",
+        "../Variables.scss"
+    ],
+    "names": [],
+    "file": "UnitDetail.css"
+}

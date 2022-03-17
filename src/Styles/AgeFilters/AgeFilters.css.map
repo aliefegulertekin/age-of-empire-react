@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,gBAAgB,CAAC;EACf,WAAW,EAAE,IAAI;EACjB,UAAU,EAAE,IAAI;CAahB;;AAfF,AAGE,gBAHc,CAGd,wBAAwB,CAAC;EACvB,UAAU,EAAE,IAAI;EAChB,aAAa,EAAE,IAAI;EACnB,UAAU,EAAE,wBAAwB,CAAC,GAAG,CAAC,GAAG,CAAC,IAAI,CAAC,GAAG;EACrD,KAAK,EAAE,GAAG;EACV,MAAM,EAAE,OAAO;EACf,OAAO,EAAE,WAAW;EACpB,KAAK,ECZS,OAAO;EDarB,aAAa,EAAE,IAAI;EACnB,gBAAgB,EAAE,OAAO;EACzB,WAAW,ECdG,eAAe,EAAE,OAAO;EDetC,KAAK,EAAE,KAAK;CACf",
+    "sources": [
+        "AgeFilters.scss",
+        "../Variables.scss"
+    ],
+    "names": [],
+    "file": "AgeFilters.css"
+}

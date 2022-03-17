@@ -1,0 +1,25 @@
+@import "../Variables.scss";
+
+.nav-bar-list {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 10vh;
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+
+  .nav-bar-list_element {
+    list-style: none;
+
+    .link{
+      text-decoration: none;
+      color: $yellowColor;
+      font-size: 1.2rem;
+      margin-bottom: 1rem;
+      font-family: $medievalFont;
+    }
+  }
+
+}

@@ -1,0 +1,28 @@
+.home {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.home .home-header {
+  font-size: 2.5rem;
+  color: #b4901e;
+  font-family: "MedievalSharp", cursive;
+  margin-top: 1.5rem;
+}
+
+.home .home-photo-container {
+  background: url("../../../public/img/welcome-medieval.JPG");
+  height: 26rem;
+  background-repeat: no-repeat;
+  margin-top: 2rem;
+  width: 56rem;
+}
+/*# sourceMappingURL=Home.css.map */

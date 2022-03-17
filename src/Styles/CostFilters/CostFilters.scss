@@ -1,0 +1,17 @@
+@import "../Variables.scss";
+
+.cost-filters-container {
+  display: flex;
+  flex-direction: column;
+  .cost-filter {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 110%;
+    .cost-filter-label {
+      color: $yellowColor;
+      font-family: $medievalFont;
+    }
+  }
+}

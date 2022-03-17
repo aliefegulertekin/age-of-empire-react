@@ -1,0 +1,18 @@
+@import "../Variables.scss";
+
+.age-filter-list {
+  margin-left: 2rem;
+  margin-top: 2rem;
+  .age-filter-list_element {
+    list-style: none;
+    margin-bottom: 1rem;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    width: 10%;
+    cursor: pointer;
+    padding: 1rem 0.1rem;
+    color: $yellowColor;
+    border-radius: 1rem;
+    background-color: #5c2304;
+    font-family: $medievalFont;
+    width: 10rem;
+}}

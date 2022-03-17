@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,8BAA8B,CAAC;EAC7B,KAAK,EAAE,cAAc;EACrB,WAAW,EAAE,IAAI;EACjB,YAAY,EAAE,IAAI;CAanB;;AAhBD,AAIE,8BAJ4B,CAI5B,kBAAkB,CAAC;EACjB,WAAW,EAAE,IAAK;CACnB;;AANH,AAQE,8BAR4B,CAQ5B,eAAe,CAAC;EACd,MAAM,EAAE,OAAO;CAChB;;AAVH,AAYE,8BAZ4B,CAY5B,eAAe,AAAA,MAAM,CAAC;EACpB,gBAAgB,EAAE,OAAkB;CACrC",
+    "sources": [
+        "UnitsTable.scss"
+    ],
+    "names": [],
+    "file": "UnitsTable.css"
+}

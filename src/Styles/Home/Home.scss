@@ -1,0 +1,24 @@
+@import "../Variables.scss";
+
+
+.home {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+  .home-header {
+    font-size: $headerSize;
+    color: $yellowColor;
+    font-family: $medievalFont;
+    margin-top: $distanceFromHeader;
+  }
+  
+  .home-photo-container {
+    background: url('../../../public/img/welcome-medieval.JPG') ;
+  height: 26rem;
+  background-repeat: no-repeat;
+  margin-top: 2rem;
+  width: 56rem;
+  }
+}
+
